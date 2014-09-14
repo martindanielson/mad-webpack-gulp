@@ -1,13 +1,13 @@
 {
   "name": "mad-webpack-gulp",
   "version": "0.0.0",
-  "description": "",
+  "description": "Small boilerplate/bootstrap for webpack with gulp and live reload via webpack-dev-server",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "martindanielson",
+  "license": "MIT",
   "devDependencies": {
     "webpack": "^1.4.0-beta6",
     "webpack-dev-server": "^1.6.4",
