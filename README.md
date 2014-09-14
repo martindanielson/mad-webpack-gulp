@@ -3,8 +3,8 @@ mad-webpack-gulp
 
 Small boilerplate/bootstrap for webpack with gulp and live reload via webpack-dev-server.
 
-- Initially I will use this repository to learn a little bit more about configuration and build automation using webpack and gulp.
-- The plan is to later fork this and create what I would concider the ultimate setup for a single page application (React, Flux or Backbone, some router, SASS or LESS and the usual compression and mappings).
+> Initially I will use this repository to learn a little bit more about configuration and build automation using webpack and gulp.
+> The plan is to later fork this and create what I would concider the ultimate setup for a single page application (React, Flux or Backbone, some router, SASS or LESS and the usual compression and mappings).
 
 Feel free to use this however you want, if you see something that is wrong or have suggestions send me a message and share your findings.
 
