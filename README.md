@@ -23,7 +23,7 @@ Playbook
 Create a `package.json` and install Node.js dependencies
 ```
 npm init
-npm install --save-dev webpack, webpack-dev-server, gulp, gulp-util
+npm install --save-dev webpack, webpack-dev-server, gulp, gulp-util, style-loader, css-loader
 ```
 
 Edit `webpack.config.js`
