@@ -1,2 +1,3 @@
-var text = 'Make changes to /src/app.js and see them come alive!';
-document.write(text + '<br><br>' + 'Asabla vet inte var jag ollade honom. <replace this with some text>');
+require('./style.css');
+var text = 'Make changes to any file in the src-directory and see them come to life!';
+document.write(text + '<br><br>' + '<replace this with some text>');
