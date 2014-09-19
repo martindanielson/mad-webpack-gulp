@@ -10,14 +10,14 @@ Feel free to use this however you want, if you see something that is wrong or ha
 
 Recent changes
 --------------
-  - Attempted to add support for css bundles, but since they do not (yet) work with hot module replacement I saved the changes in separate files for use in production environments. *
-  - Added support for styles, with hot module replacement. *
+  - Attempted to add support for css bundles, but since they do not (yet) work with hot module replacement I saved the changes in separate files for use in production environments. \*
+  - Added support for styles, with hot module replacement. \*
   - Changed the default entry to be easily duplicated for additional application modules.
 
-> * The problem having stylesheets without bundles is that they get compiled into JavaScript; thus, we loose the ability to trace styles for elements in DevTools.
->
-> [sokra](http://github.com/sokra):
-> It's planned to add hot update support for the css bundle.
+> \* The problem having stylesheets without bundles is that they get compiled into JavaScript; thus, we loose the ability to trace styles for elements in DevTools.  
+>  
+> [sokra](http://github.com/sokra):  
+> It's planned to add hot update support for the css bundle.  
 > That's not so complex...
 
 Next up & thoughts
